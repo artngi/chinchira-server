@@ -1,0 +1,5 @@
+​Flask3.0.2
+Flask-SocketIO5.3.6
+simple-websocket0.10.1
+gunicorn21.2.0
+eventlet==0.35.1
